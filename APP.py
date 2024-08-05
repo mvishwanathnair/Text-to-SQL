@@ -66,7 +66,7 @@ def get_summarization(client, user_question, df, model):
 model = "llama3-70b-8192"
 
 # Get the Groq API key and create a Groq client
-groq_api_key = "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"
+groq_api_key = ""
 client = Groq(
   api_key=groq_api_key
 )
