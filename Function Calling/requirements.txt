@@ -1,0 +1,9 @@
+groq
+numpy
+pandas
+langchain_community
+sqlparse
+scikit-learn
+duckdb
+pyyaml
+sentence-transformers==2.3.1
